@@ -1,4 +1,12 @@
-### Hi there 👋
+# Version
+*python 3.7.4*
+# Packages
+scipy                              1.1.0<br>
+pandas                             0.23.4<br>
+numpy                              1.16.4<br>
+minepy                             1.2.4<br>
+scikit-learn                       0.19.2<br>
+xgboost                            0.90<br>
 
 <!--
 **FeCO3/FeCO3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
